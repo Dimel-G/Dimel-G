@@ -28,7 +28,6 @@ J'aime accompagner les autres dans l'atteinte d'objectifs.
 - LinkedIn : Melissa Gaombalet
 - Email : melissagaombalet@yahoo.com
 
-## 😄 Pronoms : Elle
 
 ## ⚡ Fait sur moi : 
 Je suis une passionnée de développement de dévéloppement personnel, je passe mon temps à écrire tout ce qui me passe par la tête. 
