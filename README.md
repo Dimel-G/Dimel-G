@@ -2,8 +2,7 @@
 
 J'adore transformer les données en insights exploitables et je suis toujours prête à apprendre et à évoluer dans ce domaine en constante mutation.
 Je désire devenir une Data Scientist spécialisée dans les problématiques financières. Mon but n'est pas de faire que de la Data Science.
-Je veux être capable de démystifier tous les métiers de la finance et de pouvoir un jour prétendre à des rôles managériales car ma passion c'est le développement personnel.
-J'aime accompagner les autres dans l'atteinte d'objectifs.
+Je veux être capable de démystifier tous les métiers de la finance et de pouvoir un jour prétendre à des rôles managériaux car ma passion c'est le développement personnel. J'aime accompagner les autres dans l'atteinte d'objectifs.
 
 ## 👀 Je m'intéresse à...
 - La Data Science et le Machine Learning
